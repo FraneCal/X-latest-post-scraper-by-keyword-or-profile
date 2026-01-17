@@ -1,3 +1,4 @@
-python run_search_scraper.py --keywords-file keywords.txt --limit 500 --latest --output 251218_keywords.xlsx
+python run_search_scraper.py --keywords-file keywords.txt --limit 500 --latest --output keywords.xlsx
 
-python run_search_scraper.py --profiles-file profiles.txt --limit 500 --latest --output 251218_profiles.xlsx
+python run_search_scraper.py --profiles-file profiles.txt --limit 500 --latest --output profiles.xlsx
+
